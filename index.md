@@ -4,3 +4,6 @@
 ``` javascript
 var myVar = "I am a cat!";
 ```
+- [X] Start GitHub
+- [X] Work with GitHub
+- [ ] Master GitHub
